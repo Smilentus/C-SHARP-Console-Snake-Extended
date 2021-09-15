@@ -1,0 +1,37 @@
+Z:\Левченко\Системное программирование\Snake\Snake\bin\Debug\Snake.exe.config
+Z:\Левченко\Системное программирование\Snake\Snake\bin\Debug\Snake.exe
+Z:\Левченко\Системное программирование\Snake\Snake\obj\Debug\Snake.exe
+Z:\Левченко\Системное программирование\Snake\Snake\obj\Debug\Snake.pdb
+Z:\Левченко\Системное программирование\Snake\Snake\bin\Debug\Snake.pdb
+Z:\Левченко\Системное программирование\Snake\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+E:\Snake\Snake\bin\Debug\Snake.exe.config
+E:\Snake\Snake\bin\Debug\Snake.exe
+E:\Snake\Snake\bin\Debug\Snake.pdb
+E:\Snake\Snake\obj\Debug\Snake.exe
+E:\Snake\Snake\obj\Debug\Snake.pdb
+G:\Snake\Snake\bin\Debug\Snake.exe.config
+G:\Snake\Snake\bin\Debug\Snake.exe
+G:\Snake\Snake\bin\Debug\Snake.pdb
+G:\Snake\Snake\obj\Debug\Snake.csprojAssemblyReference.cache
+G:\Snake\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+G:\Snake\Snake\obj\Debug\Snake.exe
+G:\Snake\Snake\obj\Debug\Snake.pdb
+E:\Snake\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+E:\Snake2\Snake\Snake\bin\Debug\Snake.exe.config
+E:\Snake2\Snake\Snake\bin\Debug\Snake.exe
+E:\Snake2\Snake\Snake\bin\Debug\Snake.pdb
+E:\Snake2\Snake\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+E:\Snake2\Snake\Snake\obj\Debug\Snake.exe
+E:\Snake2\Snake\Snake\obj\Debug\Snake.pdb
+E:\Змейки\Snake2\Snake\Snake\bin\Debug\Snake.exe.config
+E:\Змейки\Snake2\Snake\Snake\bin\Debug\Snake.exe
+E:\Змейки\Snake2\Snake\Snake\bin\Debug\Snake.pdb
+E:\Змейки\Snake2\Snake\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+E:\Змейки\Snake2\Snake\Snake\obj\Debug\Snake.exe
+E:\Змейки\Snake2\Snake\Snake\obj\Debug\Snake.pdb
+D:\Змейки\Snake2\Snake\Snake\bin\Debug\Snake.exe.config
+D:\Змейки\Snake2\Snake\Snake\bin\Debug\Snake.exe
+D:\Змейки\Snake2\Snake\Snake\bin\Debug\Snake.pdb
+D:\Змейки\Snake2\Snake\Snake\obj\Debug\Snake.csprojAssemblyReference.cache
+D:\Змейки\Snake2\Snake\Snake\obj\Debug\Snake.exe
+D:\Змейки\Snake2\Snake\Snake\obj\Debug\Snake.pdb
